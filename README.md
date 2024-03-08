@@ -7,9 +7,9 @@
 
 - 🌱 Learning all about Proper Programming
 
-- 👨‍💻 All of my projects are available at [https://hasi.netlify.app/](https://hasi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/dilusha07/](https://github.com/dilusha07/)
 
-- 📝 Sharing knowledge on [https://hasitha-chandula.medium.com/](https://hasitha-chandula.medium.com/)
+- 📝 Sharing knowledge on [https://medium.com/@dilushasandaruwani07/](https://medium.com/@dilushasandaruwani07/)
 
 - 💬 Ask me about **Java(SprongBoot),Angualr,Nodejs(Express),Microservices,Docker**
 
