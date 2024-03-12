@@ -22,17 +22,16 @@
 <a href="https://github.com/dilusha07">
   <img align="left" alt="Dilusha Sandaruwanis github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<!--
 <a href="/">
   <img align="left" alt="Dilusha Sandaruwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="">
   <img align="left" alt="Dilusha Sandaruwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-<br><br>
-<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha07&label=Profile%20Views&color=green&style=plastic" alt="Dilusha Sandaruwani" /> </p>
 -->
+<br><br>
 <p align="left">
 </p>
 
