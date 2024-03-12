@@ -16,6 +16,22 @@
 - 📫 How to reach me **sandaruwanidilusha1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/dilusha-sandaruwani-98435b1aa/">
+  <img align="left" alt="Dilusha Sandaruwani Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/dilusha07">
+  <img align="left" alt="Dilusha Sandaruwanis github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="/">
+  <img align="left" alt="Dilusha Sandaruwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Dilusha Sandaruwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<!--
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha07&label=Profile%20Views&color=green&style=plastic" alt="Dilusha Sandaruwani" /> </p>
+-->
 <p align="left">
 </p>
 
